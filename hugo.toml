@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://LuceTu.github.io/tu-hugo-blog/"  # 修改为你的实际 GitHub Pages URL
+languageCode = "en-us"
+title = "My Hugo Blog"
+theme = "PaperMod"
+
+[params]
+  author = "LuceTu"
+  description = "My personal blog powered by Hugo"
